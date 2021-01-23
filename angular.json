@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "reglog"
+  "defaultProject": "reglog",
+  "cli": {
+    "analytics": false
+  }
 }
